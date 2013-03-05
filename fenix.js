@@ -82,3 +82,4 @@ fenix.on('error', function(error){
 
 //bind the server to listen on HOST:PORT
 fenix.listen(PORT, HOST);
+console.log('Listening on localhost:6599');
